@@ -1,0 +1,29 @@
+body{
+  background-image: url("../img/635784527837125175.png");
+  background-size: cover;
+}
+.card{
+  width: 120px;
+  height: 180px;
+  display: inline-block;;
+  background-image: url("../img/icecrown.png");
+  background-size: cover;
+  margin: 20px;
+}
+#card_container{
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+}
+.color1{
+  background-color: rgb(134, 11, 244);
+  background-image: none;
+}
+.color2{
+  background-color: rgb(83, 240, 15);
+  background-image: none;
+}
+.color3{
+  background-color: rgb(153, 21, 21);
+  background-image: none;
+}
